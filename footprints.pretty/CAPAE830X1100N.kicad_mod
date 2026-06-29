@@ -1,0 +1,461 @@
+(footprint "CAPAE830X1100N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "8 x 10.5")
+	(tags "Capacitor Polarised")
+	(property "Reference" "REF**"
+		(at 6.95 0.15 90)
+		(layer "F.SilkS")
+		(uuid "d364a96a-3398-4408-b9dd-42b70a66a286")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "100µF/50V"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b93eecd4-977c-42ba-b7ee-8c6076d8d8ac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.farnell.com/datasheets/3486024.pdf?_gl=1*h6axmd*_gcl_aw*R0NMLjE3Nzk2MDYwNDguQ2owS0NRand3OHJRQmhEakFSSXNBRTQzS1BPQWZWVkg1M28tLS1qQUVGMk5taTcwN1pHd1d4UnE0cEZGcFRIWHZRbGJnQy1udnRfNXZQMGFBbV9GRUFMd193Y0I.*_gcl_au*MTQ3OTk2ODc0My4xNzc5Mzc3MjY5"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76939bdf-28ce-4420-b6f7-c5e1823b3a61")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "100uF 50V Low ESR SMD Aluminium Electrolytic Capacitor"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "203939ef-2eca-46c5-a86a-d7392599744f")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer" "Multicomp Pro"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a85ae311-d709-45d5-aa44-a41a21fead50")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "MCVVT050M101FB3L"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "72316de2-102d-400a-a2da-24077ad883b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "01041fc4-96a2-4d83-abeb-3538e3344b78")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CREATOR" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "266182d4-d6ea-462b-92a0-167aaa4272c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "06e0ab79-b9ca-40bd-bdcf-a430f45c7928")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "709fab57-6a70-4165-a2e1-02458582d991")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "201d0de7-b4c4-443a-9a32-f597a1faa378")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d7874246-aeed-44e9-b713-7008f21ee123")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "953ef447-0e84-41b8-a5af-d22fa737843d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b2ee5c0e-956f-407d-998f-59199b7737df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1d5618a5-08a0-49b0-9b83-d388b222b3e7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a296cda9-7e94-4b1b-be08-6ab0d2734b82")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75611a05-a59b-43fe-82ad-83c6f7cc3ba1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85f841b5-e0b2-4db3-853b-1d9f87b209fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34f8e585-58cf-4601-aca2-c40c99774081")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dee989ef-e656-4c77-a69e-60490b2d74b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2dfaa51-cc03-4ec5-8be1-c66b2b9e1d36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5efc6436-5ca6-4ae7-b8bf-9752cfc44fdb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e26b9b13-548a-44b6-ab77-73de755a0818")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eb68ffe0-859b-4398-9cb7-27383a1a923e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "12V_5V_2A_Synchronous_Buck_converter.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -5.475 -4.15)
+		(end 4.15 -4.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b29f0356-c3db-4add-acdc-30cb39e00aa6")
+	)
+	(fp_line
+		(start -2.075 4.15)
+		(end 4.15 4.15)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "901370b9-ec42-4596-836c-30dba8f858c8")
+	)
+	(fp_line
+		(start -5.975 -4.75)
+		(end 5.975 -4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b39fa556-5079-4d5a-b2b6-dee93c7c3a8a")
+	)
+	(fp_line
+		(start -5.975 4.75)
+		(end -5.975 -4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5fcd2a45-e01a-4c7d-bd1a-8ece7d9a77bd")
+	)
+	(fp_line
+		(start 5.975 -4.75)
+		(end 5.975 4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "36b40bb1-6dad-4c7a-a4c2-1e8c9475048b")
+	)
+	(fp_line
+		(start 5.975 4.75)
+		(end -5.975 4.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "313158fd-263c-41be-bea3-92cde07c9dfa")
+	)
+	(fp_line
+		(start -4.15 -2.075)
+		(end -4.15 2.075)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "304d3555-7bcd-492c-8d47-2377d5fae4f7")
+	)
+	(fp_line
+		(start -4.15 2.075)
+		(end -2.075 4.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "23f8377f-3f72-4670-92df-7691479d02f3")
+	)
+	(fp_line
+		(start -2.075 -4.15)
+		(end -4.15 -2.075)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "23d89f66-d890-43c5-8ef5-c15800baf162")
+	)
+	(fp_line
+		(start -2.075 4.15)
+		(end 4.15 4.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6225a499-488f-4933-a4f8-b30da2e55bcd")
+	)
+	(fp_line
+		(start 4.15 -4.15)
+		(end -2.075 -4.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e496ff8b-df9f-4a21-9722-f3805af986d8")
+	)
+	(fp_line
+		(start 4.15 4.15)
+		(end 4.15 -4.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9f461387-7c3e-4cab-98a5-6538fb315c5f")
+	)
+	(pad "1" smd rect
+		(at -3.55 0 90)
+		(size 2.2 3.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4d2211fc-8db9-49dc-9524-abb9d1c8a963")
+	)
+	(pad "2" smd rect
+		(at 3.55 0 90)
+		(size 2.2 3.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4d811b4b-975d-4c12-b314-f608bd978f55")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D_Models/MCVVT050M101FB3L.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

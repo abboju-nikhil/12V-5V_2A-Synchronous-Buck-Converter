@@ -1,0 +1,465 @@
+(footprint "SHDR2W130P0X500_1X2_1000X810X1000P"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "1985849")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 9 0.225 90)
+		(layer "F.SilkS")
+		(uuid "af279956-a113-460a-a680-e9ef781d5ef5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "1985849"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8784370c-d2a8-49cd-b1ed-37840531eb78")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.phoenixcontact.com/en-us/products/printed-circuit-board-terminal-mkdsn-15-2-ht-bk-1985849?type=pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "064ed66d-cda9-4024-8a38-cdc28b2469f2")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "2-Pin 5.0mm Pitch PCB Terminal Block Connector"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f8de79bb-a9ff-47c0-99de-4520ad471758")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Manufacturer" "Phoenix Contact"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1801aecf-4a80-4a3e-aad7-4070a017a1c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" "1985849"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ce24df4-cc6d-403d-94f5-bf8a052dd4af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e45618fc-cee9-4838-a177-e237f411c49a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CREATOR" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ecd9d49-39bb-4313-8ef2-fb0f033ecb76")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b49e73fb-3112-4b69-aee4-ab1664838238")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "41c581af-a20a-4b6f-99db-9e006b162ca9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "14e682bc-e9b1-4f5e-88f2-8d739a3c847a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1ae885d4-e8c5-4349-aaad-df5c9b5611ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b6c9915d-b88d-4267-bc43-b7853c586a93")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9ae17c6-ed34-453c-a805-deeb151c2dbe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0d8215f3-7930-4eee-98c7-acbc2493dd52")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e6653f5-3e51-47ae-9712-1c7bbd8d12a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "eee7cb36-03f9-441b-813e-2410f74b16f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f9c47794-1995-4c64-aa2f-bbdbb127f713")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4d759f7a-e96d-40d1-ac45-2f2a167982ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39ebfaa7-4e5a-4d2a-bc00-236e8bb82d1f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "174a83c5-25c8-431a-a7b9-5be4d938695e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "805574c0-f36a-48f0-aba6-f62693e1345c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3836ef54-bffe-4d42-9ff7-9f65933d18e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5f2af80-ef92-4d27-9594-2fab20972230")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "12V_5V_2A_Synchronous_Buck_converter.kicad_sch")
+	(attr through_hole)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.5 -4.05)
+		(end -2.5 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "026f3009-61e9-4746-b95c-6c064053ac22")
+	)
+	(fp_line
+		(start 0 4.05)
+		(end 7.5 4.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0f7b0e98-1e56-42dd-9ca0-229eef3b0bf5")
+	)
+	(fp_line
+		(start 7.5 -4.05)
+		(end -2.5 -4.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "400c14ee-5ab1-45b1-b859-02a4f242537b")
+	)
+	(fp_line
+		(start 7.5 4.05)
+		(end 7.5 -4.05)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cac936f4-2407-4c95-820f-0d81415313e8")
+	)
+	(fp_line
+		(start -2.75 -4.3)
+		(end 7.75 -4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "deda6fb6-75b4-45ba-8908-de267d2a66a4")
+	)
+	(fp_line
+		(start -2.75 4.3)
+		(end -2.75 -4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d3d7c185-0e97-4378-aa09-0eee1a6efc9d")
+	)
+	(fp_line
+		(start 7.75 -4.3)
+		(end 7.75 4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "93dbf719-c0ec-432a-b088-8b3af1eedade")
+	)
+	(fp_line
+		(start 7.75 4.3)
+		(end -2.75 4.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b8e2331b-e205-4c03-8a2f-ae1b4e00e44d")
+	)
+	(fp_line
+		(start -2.5 -4.05)
+		(end 7.5 -4.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ed8e42a7-e601-406e-a7e0-3f566090c2bb")
+	)
+	(fp_line
+		(start -2.5 4.05)
+		(end -2.5 -4.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6dc1bd6a-2ba1-49e2-a81a-71fcd41d5303")
+	)
+	(fp_line
+		(start 7.5 -4.05)
+		(end 7.5 4.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3ea910f5-bd0a-483c-9e85-83dd5ce7d8a3")
+	)
+	(fp_line
+		(start 7.5 4.05)
+		(end -2.5 4.05)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2f48d0f7-30a0-4609-ac7e-af0d4561762d")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.25 2.25)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "992ca204-6dc2-4d76-a24f-2f62cf086f63")
+	)
+	(pad "2" thru_hole circle
+		(at 5 0)
+		(size 2.25 2.25)
+		(drill 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "28d0e2ef-377d-4c15-bfda-94e78eae846c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D_Models/1985849.stp"
+		(offset
+			(xyz 8 3.5 -1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)
